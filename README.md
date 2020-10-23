@@ -1,8 +1,9 @@
 # Chicó
-Chicó is a collection of automatic webscrapping scripts to help analyse public expenditures, it currently work with:
+Chicó is a collection of automatic webscrapping scripts to help analyse public expenditures, legislative proposals and hirings. It currently work with:
 
-- [Pernambuco Legislative Assembly(ALEPE)](http://www.alepe.pe.gov.br/) 
+- [Pernambuco Legislative Assembly (ALEPE)](http://www.alepe.pe.gov.br/) 
 - [Recife's City Council](http://www.recife.pe.leg.br/) 
+- [Pernambuco accountability / transparency portal](http://web.transparencia.pe.gov.br/)
 
 ## Libs
 - BeautifulSoup
