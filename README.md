@@ -1,8 +1,8 @@
 # Chicó
 Chicó is a collection of automatic webscrapping scripts to help analyse public expenditures, it currently work with:
 
--[Pernambuco Legislative Assembly(ALEPE)](http://www.alepe.pe.gov.br/) 
--[Recife's City Council](http://www.recife.pe.leg.br/) 
+- [Pernambuco Legislative Assembly(ALEPE)](http://www.alepe.pe.gov.br/) 
+- [Recife's City Council](http://www.recife.pe.leg.br/) 
 
 ## Libs
 - BeautifulSoup
