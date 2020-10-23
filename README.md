@@ -14,4 +14,4 @@ Chicó is a collection of automatic webscrapping scripts to help analyse public 
 
 ## Learn more
 Chicó databases are used to create dashboards with Power BI service, alowing people to audit public expenses. All that work
-can me found on [Cidadao Fiscal Website](http://cidadaofiscal.org/blog/)
+can be found on [Cidadao Fiscal Website](http://cidadaofiscal.org/blog/)
