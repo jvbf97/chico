@@ -15,7 +15,7 @@ Chicó is a collection of automatic webscrapping scripts to help analyse public 
 ## Learn more
 Chicó databases are used to create dashboards with Power BI service, alowing people to audit public expenses. 
 
-Click below to explore these dashboards
+Click below to explore these dashboards(mobile version)
 
 - [ALEPE](https://app.powerbi.com/view?r=eyJrIjoiOThlNDU4ZDgtZDBiNC00ZTFlLWEyZTAtMWJhMWM1NmRlZWI1IiwidCI6ImM2YTI2OGNiLTA4ZmYtNDU4My04ZWVlLTBjYzJjOTUwNDY5OCJ9)
 - [City Council](https://app.powerbi.com/view?r=eyJrIjoiNWU5OWU1MDgtNmE3OC00YmQ1LWFlYmMtM2VjMTQ3OWM4MWE2IiwidCI6ImM2YTI2OGNiLTA4ZmYtNDU4My04ZWVlLTBjYzJjOTUwNDY5OCJ9)
