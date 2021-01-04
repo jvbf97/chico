@@ -13,5 +13,9 @@ Chicó is a collection of automatic webscrapping scripts to help analyse public 
 - Scrapy
 
 ## Learn more
-Chicó databases are used to create dashboards with Power BI service, alowing people to audit public expenses. All that work
-can be found on [Cidadao Fiscal Website](http://cidadaofiscal.org/blog/)
+Chicó databases are used to create dashboards with Power BI service, alowing people to audit public expenses. 
+
+Click below to explore these dashboards
+
+- [ALEPE](https://app.powerbi.com/view?r=eyJrIjoiOThlNDU4ZDgtZDBiNC00ZTFlLWEyZTAtMWJhMWM1NmRlZWI1IiwidCI6ImM2YTI2OGNiLTA4ZmYtNDU4My04ZWVlLTBjYzJjOTUwNDY5OCJ9)
+- [City Council](https://app.powerbi.com/view?r=eyJrIjoiNWU5OWU1MDgtNmE3OC00YmQ1LWFlYmMtM2VjMTQ3OWM4MWE2IiwidCI6ImM2YTI2OGNiLTA4ZmYtNDU4My04ZWVlLTBjYzJjOTUwNDY5OCJ9)
